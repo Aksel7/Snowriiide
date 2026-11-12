@@ -82,9 +82,9 @@ java -cp out snowride.Main
 
 ## 👥 Équipe
 
+* Gabriel
+* Maxence
 * Aksel
-* *à compléter*
-* *à compléter*
 
 ---
 
