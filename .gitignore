@@ -1,0 +1,24 @@
+# Java
+*.class
+*.jar
+*.war
+hs_err_pid*
+
+# Build
+target/
+build/
+out/
+bin/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# OS
+.DS_Store
+Thumbs.db
